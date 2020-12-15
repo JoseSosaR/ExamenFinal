@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,900;1,100&display=swap');
+:root{
+    --f7-theme-color:#B9121B;
+    --f7-navbar-bg-color: #F6E497; /*navbar*/
+    --f7-navbar-text-color:#000;
+    --f7-bars-bg-color:#F6E497;/*toolbar*/
+	--f7-card-bg-color: #F6E497;
+	--color-rojo: #a71515;
+	
+	
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	color: var(--color-gris);
+	
+}
+h1,h2,h3,h4,h5,h6{
+	color: var(--color-negro);
+	margin-bottom: 5px;
+	margin-top: 2px;
+	text-align: center;
+	
+}
+
+.page-content{
+	background-color: #FCFAE1;
+}
+
+.menubox{
+
+	font-family: 'Montserrat', sans-serif;
+	text-align:center;
+	border-radius:1px;
+	padding:3% 3% 0% 3%;
+	background-color:#a71515;
+	color:white;
+	text-transform: uppercase;
+}
+.menubox2{
+
+	font-family: 'Montserrat', sans-serif;
+	text-align:center;
+	border-radius:1px;
+	padding:3% 3% 0% 3%;
+	background-color:#a3b7ff;
+	color:white;
+	text-transform: uppercase;
+}
+.menubox3{
+
+	font-family: 'Montserrat', sans-serif;
+	text-align:center;
+	border-radius:1px;
+	padding:3% 3% 0% 3%;
+	background-color:#eac6e6;
+	color:white;
+	text-transform: uppercase;
+}
+.img-fluid{
+	max-width: 100%;
+	
+}
+a{
+	color:white;
+}
+
+
+.panel-top{
+	background-color: var(--color-rojo);
+	padding: 17px;
+	color: #fff;
+	text-align: center;
+}
+
+.destino{
+	text-align: center;
+	font-size: 2em;
+}
+
+.desc li{
+	font-size: 1.3em;
+}
+
+.titledesc{
+	font-size: 1.7em;
+}
+
+.info_d {
+	font-size: 1.4em;
+}
+
+.precio{
+	font-size: 1.4em;
+}
