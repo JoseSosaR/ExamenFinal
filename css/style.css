@@ -7,6 +7,7 @@
     --f7-bars-bg-color:#F6E497;/*toolbar*/
 	--f7-card-bg-color: #F6E497;
 	--color-rojo: #a71515;
+	--color-negro: #000;
 	
 	
 }
@@ -69,7 +70,7 @@ a{
 .panel-top{
 	background-color: var(--color-rojo);
 	padding: 17px;
-	color: #fff;
+	
 	text-align: center;
 }
 

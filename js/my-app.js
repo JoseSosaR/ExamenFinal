@@ -21,19 +21,19 @@ var myApp = new Framework7({
     	name: 'home',
   		},
 		{
-			path:'/destino1/',
+		path:'/destino1/',
     	url: 'destino1.html',
     	name: 'destino1',
 		},
 		{
-		path: '/formulario/',
-    	url: 'formulario.html',
-    	name: 'formulario',
+		path: '/destino2/',
+    	url: 'destino2.html',
+    	name: 'destino2',
   		},
 		{
-		path: '/info/',
-    	url: 'info.html',
-    	name: 'info',
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',
   		},
 		{
 		path: '/formulario2/',
